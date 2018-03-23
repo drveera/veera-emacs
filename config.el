@@ -15,3 +15,4 @@
 (setq x-select-enable-clipboard t)
 
 (add-to-list 'auto-mode-alist '("\\.snake\\'" . snakemake-mode))
+(setq org-replace-disputed-keys t)
