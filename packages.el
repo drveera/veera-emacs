@@ -31,7 +31,6 @@
 
 (defconst veera-packages
   '(
-    
     )
   "The list of Lisp packages required by the veera layer.
 
